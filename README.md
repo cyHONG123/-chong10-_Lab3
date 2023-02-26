@@ -10,3 +10,4 @@ Type the java DNAList (arraysize) (file address), for example "java DNAList 20 i
 You can use every method directly, as long as it follow the method rule on Lab3_dna.doc
 The Enum DNA and Enum RNA is for defining the type, the DNAList project is construct by a outer LinkedList which contains inner DNAList<DNA/RNA>
 ps: Why so hard???
+ps2: Where is the singly linkedlist/double linked list on the course mentioned in the doc???
